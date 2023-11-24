@@ -1,7 +1,7 @@
 import unittest
 
 # Importe a classe que você deseja testar
-from calc.py import Calculadora
+from calc import Calculadora
 
 class TestCalculadora(unittest.TestCase):
 
